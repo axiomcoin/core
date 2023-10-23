@@ -1,0 +1,6 @@
+usr/local/bin/nirvana-qt usr/bin
+share/pixmaps/nirvana32.xpm usr/share/pixmaps
+share/pixmaps/nirvana16.xpm usr/share/pixmaps
+share/pixmaps/nirvana128.png usr/share/pixmaps
+debian/nirvana-qt.desktop usr/share/applications
+debian/nirvana-qt.protocol usr/share/kde4/services/

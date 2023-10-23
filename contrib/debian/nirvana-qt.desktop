@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=0.17.6
+Name=Nirvana Core
+Comment=Connect to the Nirvana P2P Network
+Exec=nirvana-qt %u
+Terminal=false
+Type=Application
+Icon=nirvana128
+MimeType=x-scheme-handler/nirvana;
+Categories=Network;
+StartupWMClass=Nirvana-qt
+Name[en_US]=nirvana-qt
