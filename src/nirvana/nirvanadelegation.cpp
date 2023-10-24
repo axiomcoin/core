@@ -15,6 +15,7 @@ const ContractABI &DelegationABI()
     return contractDelegationABI;
 }
 
+
 bool AbiOutEvent(FunctionABI* func, const std::vector<std::string>& topics, const std::string& data, std::vector<std::vector<std::string>>& values)
 {
     std::vector<ParameterABI::ErrorType> errors;
